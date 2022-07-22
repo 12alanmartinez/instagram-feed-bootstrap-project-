@@ -1,0 +1,57 @@
+/* .container-fluid{
+    margin-left: 50px;
+}
+.instagram{
+    margin-right: 55rem;
+}
+.d-flex{
+    margin-left: 55rem;
+} */
+
+
+
+.container{
+    margin-left:365px;
+}
+.d-flex{
+    margin-right: 95px;
+}
+.right{
+    left: 50px;
+    margin-right: 95px;
+}
+img{
+    height: 350px;
+    width: 310px;
+}
+.post{
+    margin: 0 auto;
+    width: 30%;
+    background-color: white;
+}
+.cudi{
+    height: 500px;
+    width: 510px;
+}
+body{
+    background-color: lightgray;
+}
+div .post-header{
+    display: inline-block;
+    width: 80%;
+}
+span{
+    display: inline-block;
+    width: 18%;
+}
+div .post-footer{
+    display: inline-block;
+    width: 80%;
+}
+.left{
+    margin-left: -470px;
+    color: grey;
+}
+.idk{
+    margin-left: 800px;
+}
